@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Viaoda+Libre&display=swap');
+* {
+    font-family: 'Viaoda Libre', cursive;
+}
+
+.lado {
+    background-color: white;
+    width: 300px;
+    position: fixed;
+    margin: 15px 0 10px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    box-shadow: 1px 1px 3px #f3f3f3;
+}
+
+.cor {
+    text-align: center;
+    color: #696969;
+    justify-content: center;
+}
+
+.sobre {
+    position: fixed;
+    width: 480px;
+    float: left;
+    text-align: justify;
+    margin: 15px 0 10px;
+    background-color: #fff;
+}
