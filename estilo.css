@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Viaoda+Libre&display=swap');
 * {
+    background-color: black;
     font-family: 'Viaoda Libre', cursive;
 }
 
 .lado {
-    background-color: white;
+    background-color: black;
     width: 300px;
     position: fixed;
     margin: 15px 0 10px;
@@ -15,8 +16,9 @@
 }
 
 .cor {
+    background-color: black;
     text-align: center;
-    color: #696969;
+    color: white;
     justify-content: center;
 }
 
@@ -26,5 +28,5 @@
     float: left;
     text-align: justify;
     margin: 15px 0 10px;
-    background-color: #fff;
+    background-color: black;
 }
